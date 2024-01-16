@@ -25,6 +25,4 @@
 - [**Tailwind CSS**](https://tailwindcss.com/) - A low-level utility framework for quickly building layouts on the web.
 - [**Vite**](https://vitejs.dev/) - A fast and efficient front-end build tool for modern web development.
 
-##  License
 
-[MIT](#) - Created by [**Franco Sbaffi**](https://www.linkedin.com/in/franco-sbaffi/).
